@@ -1,0 +1,35 @@
+.header {
+    background-color: rgba(34, 49, 52, 0.9);
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: "Lucida Grande";
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+
+.full-card {
+    margin-top: 150px;
+}
+
+.card {
+    margin: auto;
+}
+
+h5 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+button {
+    margin: 20px 0;
+}
+
+.result {
+    color: red;
+}
